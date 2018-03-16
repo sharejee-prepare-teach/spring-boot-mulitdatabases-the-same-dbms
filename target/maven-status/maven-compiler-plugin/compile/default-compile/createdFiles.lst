@@ -1,0 +1,10 @@
+com\multidatabase\repositories\BookingDao.class
+com\multidatabase\repositories\UserDao.class
+com\multidatabase\configuration\UserDBConfig.class
+com\multidatabase\domain\UserDetails.class
+com\multidatabase\DemoApplication.class
+com\multidatabase\domain\Booking.class
+com\multidatabase\web\api\BookingRestController.class
+com\multidatabase\configuration\BookingDBConfig.class
+com\multidatabase\web\controllers\HomeController.class
+com\multidatabase\web\api\UserDetailRestController.class

@@ -1,0 +1,18 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.multidatabase.configuration.BookingDBConfig",
+      "name": "spring.booking.datasource",
+      "sourceMethod": "mysqlDataSource()",
+      "type": "javax.sql.DataSource"
+    },
+    {
+      "sourceType": "com.multidatabase.configuration.UserDBConfig",
+      "name": "spring.user.datasource",
+      "sourceMethod": "postgresqlDataSource()",
+      "type": "javax.sql.DataSource"
+    }
+  ],
+  "properties": []
+}
